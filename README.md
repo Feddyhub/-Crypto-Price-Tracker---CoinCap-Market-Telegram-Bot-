@@ -4,4 +4,4 @@
 
 ### Bu proje ileride telegrama LLM modeli baglamak icin bir basamaktir. cok ozenli degil tamamen islev odaklidir.
 
-![Telegram bot goruntusu](C:\Users\Feddy\Desktop\Telegram coin bot\Screenshot 2025-03-12 024134.png)
+![Telegram bot goruntusu](Screenshot 2025-03-12 024134.png)
